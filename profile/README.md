@@ -2,19 +2,19 @@
 
 <h1 align="center">🤗 Hello, It's FrixelMC</h1>
 
-###
+---
 
-# 🛠️ Project
+## 🛠️ Project
 
-## 🌿 Crops
+### 🌿 Subproject: Crops
 
-<h2 align="center"> 🧑‍💻 Members 👨‍🎨</h2>
+---
 
-<h3 align="center">
-  <a href="https://github.com/phnaa">Peuheori</a>
-  <a href="https://github.com/MrJimin">MrJimin</a> 
-  <a href="https://github.com/as7ar">ASTAR</a>
-  <a href="https://github.com/sunsonic-123">SunSonic</a>
-</h3>
+## 🧑‍💻 Team Members 👨‍🎨
 
-###
+* **[Peuheori](https://github.com/phnaa)**
+* **[MrJimin](https://github.m/MrJimin)**
+* **[ASTAR](https://github.com/as7ar)**
+* **[SunSonic](https://github.com/sunsonic-123)**
+
+---
