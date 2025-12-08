@@ -11,9 +11,10 @@
 <h2 align="center"> 🧑‍💻 Members 👨‍🎨</h2>
 
 <h3 align="center">
-  [Peuheori](https://github.com/phnaa)
-  [MrJimin](https://github.com/MrJimin)
-  [ASTAR](https://github.com/as7ar)
+  <a href="https://github.com/phnaa">Peuheori</a>
+  <a href="https://github.com/MrJimin">MrJimin</a> 
+  <a href="https://github.com/as7ar">ASTAR</a>
+  <a href="https://github.com/sunsonic-123">SunSonic</a>
 </h3>
 
 ###
